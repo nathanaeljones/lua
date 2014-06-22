@@ -1,6 +1,8 @@
 README for Lua 5.1 [![Build Status](https://secure.travis-ci.org/LuaDist/lua.png?branch=lua-5.1)](http://travis-ci.org/LuaDist/lua)
 ==================
 
+Run `cmake .` then `make`
+
 See INSTALL for installation instructions.
 See HISTORY for a summary of changes since the last released version.
 
