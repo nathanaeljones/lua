@@ -1,3 +1,6 @@
 _*
 .DS_Store
-
+CMakeFiles
+*.cmake
+Testing/Temporary
+/DartConfiguration.tcl
